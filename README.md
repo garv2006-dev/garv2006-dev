@@ -41,12 +41,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Garv's GitHub stats](https://github-readme-stats.vercel.app/api?username=garv2006-dev&show_icons=true&theme=radical)
-
----
-
 ### 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=garv2006-dev&theme=radical)
 
