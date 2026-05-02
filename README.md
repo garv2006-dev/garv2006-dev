@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Startup ideas & SaaS products**
 - 🤔 I’m looking for help with **scaling architecture & performance optimization**
 - 💬 Ask me about **React, UI/UX, SaaS apps**
-- 📫 How to reach me: **garvvariya03@gmail.com.com**
+- 📫 How to reach me: **garvvariya03@gmail.com**
 - ⚡ Fun fact: I love building real-world scalable apps 🚀
 
 ---
