@@ -52,8 +52,9 @@
 
 ---
 
-### 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garv-variya)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garvvariya03@gmail.com)
 
 ---
 
